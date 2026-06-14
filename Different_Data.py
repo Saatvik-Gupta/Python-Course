@@ -13,5 +13,9 @@ t1=[10] #list
 t2=10, #tuple
 t3=(10) #integer
 t4=(10,) #tuple
-print(type(t));print(type(t1));print(type(t2));print(type(t3));print(type(t4))
+print(type(t))
+print(type(t1))
+print(type(t2))
+print(type(t3))
+print(type(t4))
 

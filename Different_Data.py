@@ -13,7 +13,7 @@ t1=[10] #list
 t2=10, #tuple
 t3=(10) #integer
 t4=(10,) #tuple
-print(type(t))
+print(type(t)) # "type" function is used to determine what kind of Data Structure is being used
 print(type(t1))
 print(type(t2))
 print(type(t3))

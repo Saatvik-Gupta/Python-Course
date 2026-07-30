@@ -1,4 +1,4 @@
-# Jug with water problem
+# Jug with water problem --> Jug A and Jug B
 Max_P=4
 Max_Q=3
 

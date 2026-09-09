@@ -6,7 +6,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download("punkt_tab")
 
-with open("input.txt", "r", encoding="utf-8") as file:
+with open("input.txt", "r", encoding="utf-8") as file: # if not input.txt use "file_path\\input,txt" also if not \\ use (r"file_path\input.txt)
+    
     text = file.read()
 
 words = word_tokenize(text)
